@@ -5,6 +5,3 @@
 [submodule "abcrf"]
 	path = abcrf
 	url = https://github.com/jmm34/abcrf
-[submodule "bayess"]
-	path = bayess
-	url = https://github.com/jmm34/bayess
